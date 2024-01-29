@@ -1,4 +1,6 @@
-<h1 alight="center">Hi, I'm Carnosi </h1>
+<div align="center">
+  <h1>Hi, I'm Carnosi</h1>
+</div>
 
 <div align="center">
   <h4>I focus on applying methods of artificial inteligence on everyday, tidious tasks in industry (<a href="https://www.bosch.cz/en/our-company/bosch-in-the-czech-republic/ceske-budejovice/" target="_blank" rel="noreferrer">Robert Bosch</a>, <a href="https://www.myscada.org/" target="_blank" rel="noreferrer">myScada</a>). I also focus on development of new methods for shallow neural networks as part of my Ph.D. or university work (<a href="https://www.fs.cvut.cz/" target="_blank" rel="noreferrer">CTU</a>, <a href="https://prf.jcu.cz/en/" target="_blank" rel="noreferrer">USB</a>). </h4>
